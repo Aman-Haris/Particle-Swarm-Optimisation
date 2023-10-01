@@ -1,0 +1,43 @@
+For the first test the values of the hyperparameter were c1=c2=0.2, w = 0.25, n_particles = 15. The result found by the PSO for each functions are:
+
+Schaffer function N. 2: 
+PSO found best solution at f([-0.09210124  0.12302947])=0.12820456920616385
+Global optimal at f([-1.0101010101010104, -1.0101010101010104])=0.00203437893035352
+
+Three-hump camel function: 
+PSO found best solution at f([ 0.00153178 -0.00190247])=0.03867875406771387
+Global optimal at f([0.050505050505050164, -0.050505050505050164])=0.00509469132298575
+
+Matyas Function:
+PSO found best solution at f([-0.00025957  0.00104922])=0.026910015272922385
+Global optimal at f([-0.10101010101010033, -0.10101010101010033])=0.0004081216202428267
+
+For the second test the values of the hyperparameter were c1=c2=1.2, w = 0.75, n_particles = 30. The result found by the PSO for each functions are:(These are the optimal values)
+
+Schaffer function N. 2:
+PSO found best solution at f([14.09917782  9.91770795])=0.3183901807958238
+Global optimal at f([-1.0101010101010104, -1.0101010101010104])=0.00203437893035352
+
+Three-hump camel function:
+PSO found best solution at f([ 0.99790338 -0.00433447])=1.1801470607931845
+Global optimal at f([0.050505050505050164, -0.050505050505050164])=0.00509469132298575
+
+Matyas Function:
+PSO found best solution at f([1.81195489 1.79072723])=0.30418305548195734
+Global optimal at f([-0.10101010101010033, -0.10101010101010033])=0.0004081216202428267
+
+For the second test the values of the hyperparameter were c1=c2=2.2, w = 1.25, n_particles = 45. The result found by the PSO for each functions are:
+
+Schaffer function N. 2:
+PSO found best solution at f([10.83768905  4.48622825])=0.11641770754675385
+Global optimal at f([-1.0101010101010104, -1.0101010101010104])=0.00203437893035352
+
+Three-hump camel function:
+PSO found best solution at f([0.38673407 0.0573622 ])=0.672828859682634
+Global optimal at f([0.050505050505050164, -0.050505050505050164])=0.00509469132298575
+
+Matyas Function:
+PSO found best solution at f([ 0.10072803 -0.41486567])=0.12433487986464001
+Global optimal at f([-0.10101010101010033, -0.10101010101010033])=0.0004081216202428267
+
+
